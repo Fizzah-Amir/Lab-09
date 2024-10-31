@@ -1,0 +1,23 @@
+#abc{
+    width:350px;
+    height:150px;
+    background-color:pink;
+    border-width:5px;
+border-color:peachpuff;
+border-radius:10%;
+margin:5px;
+padding:20px;
+font-weight:bold;
+}
+.normal-para{
+ background-color:green;
+ border-color:aqua;
+margin:5px;
+padding:20px;
+font-weight:bold;
+}
+#favo-para{
+    background-color:purple;
+    border-color:magenta;
+    font-weight:bold;
+}
